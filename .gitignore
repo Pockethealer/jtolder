@@ -1,0 +1,59 @@
+# ========================================
+# OS & IDE Files
+# ========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ========================================
+# Frontend (React / Node.js)
+# ========================================
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.next/
+frontend/out/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ========================================
+# Backend (Python / FastAPI)
+# ========================================
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/venv/
+backend/env/
+backend/.venv/
+backend/.env
+backend/.pytest_cache/
+backend/alembic.ini  # Ignore if it contains prod DB credentials
+
+# ========================================
+# Database & Docker
+# ========================================
+# Ignore local database volume data if you map it to a local folder
+docker/db-data/
+docker/postgres-data/
+.env
+# ========================================
+# Media & Dictionary Test Files
+# ========================================
+# Prevent accidental commits of massive copyrighted media or dictionary zips
+*.epub
+*.mkv
+*.mp4
+*.webm
+*.srt
+*.vtt
+*.zip
+backend/dictionary_data/  # Ignore the folder where you extract the Yomitan JSONs
