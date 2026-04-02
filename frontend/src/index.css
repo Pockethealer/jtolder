@@ -1,0 +1,17 @@
+/* frontend/src/index.css */
+:root {
+  /* Core Design System Variables */
+  --color-bg: #f8f9fa;
+  --color-primary: #e63946;
+  /* A nice Yomitan-esque red */
+  --color-text: #212529;
+  --font-main: system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-main);
+}
