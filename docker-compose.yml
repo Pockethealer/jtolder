@@ -21,7 +21,7 @@ services:
     container_name: jtolder_pgadmin
     restart: always
     environment:
-      PGADMIN_DEFAULT_EMAIL: admin@yomi.local
+      PGADMIN_DEFAULT_EMAIL: admin@tolder.hu
       PGADMIN_DEFAULT_PASSWORD: admin
     ports:
       - "5050:80"
