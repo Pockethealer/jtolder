@@ -7,12 +7,12 @@
 ## Epic 1: Infrastructure & Skeleton (The Foundation)
 *Goal: Get the server running and talking to the database.*
 
-- [ ] **Task 1.1: Initialize FastAPI & Docker DB**
+- [*] **Task 1.1: Initialize FastAPI & Docker DB**
   - **Action:** Spin up `docker-compose.yml`, create the `main.py` entry point, and write a simple `GET /health` route.
   - **Testing:** Visit `http://localhost:8000/docs` and execute the `/health` endpoint. It should return `{"status": "ok"}`.
   - **Estimated Time:** 1 Hour
 
-- [ ] **Task 1.2: SQLAlchemy Setup & Alembic Migrations**
+- [*] **Task 1.2: SQLAlchemy Setup & Alembic Migrations**
   - **Action:** Configure `core/database.py` using `.env` credentials. Install Alembic and initialize it to track database schema changes. Create a dummy test table.
   - **Testing:** Run `alembic upgrade head`. Check pgAdmin (`http://localhost:5050`) to verify the dummy table was created in your PostgreSQL container.
   - **Estimated Time:** 2 Hours
@@ -22,12 +22,12 @@
 ## Epic 2: The NLP Engine (Tokenization)
 *Goal: Parse raw Japanese text into an array of words without touching the database.*
 
-- [ ] **Task 2.1: Integrate `fugashi` (MeCab)**
+- [*] **Task 2.1: Integrate `fugashi` (MeCab)**
   - **Action:** Install `fugashi` and `unidic-lite`. Write a standalone Python function in `services/nlp_parser.py` that takes a Japanese string and returns a list of dictionaries (surface form, dictionary form, part of speech).
   - **Testing:** Write a simple `pytest` script: `test_parser.py` to assert that "食べた" correctly returns "食べる" as its base form.
   - **Estimated Time:** 2 Hours
 
-- [ ] **Task 2.2: Build the `/api/parse` Endpoint**
+- [*] **Task 2.2: Build the `/api/parse` Endpoint**
   - **Action:** Create the FastAPI router. It should accept a POST request with a JSON payload `{"text": "..."}` and return the tokenized array.
   - **Testing:** Open Swagger UI, paste a Japanese paragraph into the `/api/parse` request body, and verify the JSON response is correctly chunked.
   - **Estimated Time:** 1 Hour
