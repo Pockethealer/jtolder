@@ -11,12 +11,12 @@
 ## Epic 1: Scaffolding & Routing (The Skeleton)
 *Goal: Get the React app running with CSS Modules and page navigation.*
 
-- [ ] **Task 1.1: Vite & CSS Variables Initialization**
+- [*] **Task 1.1: Vite & CSS Variables Initialization**
   - **Action:** Run `npm create vite@latest` (select React/JS). Clear out the default CSS. Set up `index.css` with a robust set of CSS variables (`--color-bg`, `--color-primary`, `--font-main`) to act as your design system.
   - **Testing:** Run `npm run dev`. Create a basic `div` using your CSS variables and ensure it renders correctly.
   - **Estimated Time:** 1 Hour
 
-- [ ] **Task 1.2: App Routing & Layouts**
+- [*] **Task 1.2: App Routing & Layouts**
   - **Action:** Install `react-router-dom`. Create placeholder components for the 5 main routes (`/dashboard`, `/read`, `/watch`, `/review`, `/guide`). Build a Top Navigation bar using a `.module.css` file for styling.
   - **Testing:** Click through the navigation bar and verify the URL and screen content changes without a full page reload.
   - **Estimated Time:** 1.5 Hours

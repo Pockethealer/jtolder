@@ -37,6 +37,9 @@ backend/.venv/
 backend/.env
 backend/.pytest_cache/
 backend/alembic.ini  # Ignore if it contains prod DB credentials
+backend/static/
+venv/
+backend/models/__pycache__/
 
 # ========================================
 # Database & Docker
@@ -57,3 +60,4 @@ docker/postgres-data/
 *.vtt
 *.zip
 backend/dictionary_data/  # Ignore the folder where you extract the Yomitan JSONs
+backend/test*.py
