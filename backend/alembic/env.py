@@ -8,7 +8,11 @@ from alembic import context
 from core.config import settings
 from core.database import Base
 
-import models.dummy
+import models.user
+import models.dictionary
+import models.term
+import models.srs
+import models.media
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
 config = context.config

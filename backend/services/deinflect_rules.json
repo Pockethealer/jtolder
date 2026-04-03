@@ -1,0 +1,7212 @@
+{
+    "ければ": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "えば": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "けば": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "げば": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "せば": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "てば": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ねば": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "べば": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "めば": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "れば": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v1",
+                "v5",
+                "vk",
+                "vs",
+                "vz"
+            ]
+        }
+    ],
+    "けりゃ": [
+        {
+            "replacement": "ければ",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "きゃ": [
+        {
+            "replacement": "ければ",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        },
+        {
+            "replacement": "けば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "や": [
+        {
+            "replacement": "えば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "ぎゃ": [
+        {
+            "replacement": "げば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "しゃ": [
+        {
+            "replacement": "せば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "ちゃ": [
+        {
+            "replacement": "てば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "にゃ": [
+        {
+            "replacement": "ねば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "びゃ": [
+        {
+            "replacement": "べば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "みゃ": [
+        {
+            "replacement": "めば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "りゃ": [
+        {
+            "replacement": "れば",
+            "conditions_in": [
+                "-ゃ"
+            ],
+            "conditions_out": [
+                "-ば"
+            ]
+        }
+    ],
+    "いじゃ": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "いちゃ": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "しちゃ": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "っちゃ": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "んじゃ": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じちゃ": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為ちゃ": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "きちゃ": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ちゃ": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ちゃ": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ちゃう": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いじゃう": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "いちゃう": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "しちゃう": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "っちゃう": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "んじゃう": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じちゃう": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為ちゃう": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "きちゃう": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ちゃう": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ちゃう": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ちまう": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いじまう": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "いちまう": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "しちまう": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "っちまう": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "んじまう": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じちまう": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為ちまう": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "きちまう": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ちまう": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ちまう": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "てしまう": [
+        {
+            "replacement": "て",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "でしまう": [
+        {
+            "replacement": "で",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "なさい": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いなさい": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "きなさい": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ぎなさい": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "しなさい": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ちなさい": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "になさい": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "びなさい": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "みなさい": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "りなさい": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じなさい": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為なさい": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "来なさい": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來なさい": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "-なさい"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "そう": [
+        {
+            "replacement": "い",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        },
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "さく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "いそう": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "きそう": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ぎそう": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "しそう": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ちそう": [
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "にそう": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "びそう": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "みそう": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "りそう": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じそう": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為そう": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "来そう": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來そう": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "すぎる": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いすぎる": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "きすぎる": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ぎすぎる": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "しすぎる": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ちすぎる": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "にすぎる": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "びすぎる": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "みすぎる": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "りすぎる": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じすぎる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為すぎる": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "来すぎる": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來すぎる": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "過ぎる": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "い過ぎる": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "き過ぎる": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ぎ過ぎる": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "し過ぎる": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ち過ぎる": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "に過ぎる": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "び過ぎる": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "み過ぎる": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "り過ぎる": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じ過ぎる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為過ぎる": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "来過ぎる": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來過ぎる": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "たい": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いたい": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "きたい": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ぎたい": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "したい": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ちたい": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "にたい": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "びたい": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "みたい": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "りたい": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じたい": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為たい": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "来たい": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來たい": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "かったら": [
+        {
+            "replacement": "い",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "たら": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いたら": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "いだら": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "したら": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ったら": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "んだら": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じたら": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為たら": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "きたら": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来たら": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來たら": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ましたら": [
+        {
+            "replacement": "ます",
+            "conditions_in": [],
+            "conditions_out": [
+                "-ます"
+            ]
+        }
+    ],
+    "かったり": [
+        {
+            "replacement": "い",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "たり": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いたり": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "いだり": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "したり": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ったり": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "んだり": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じたり": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為たり": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "きたり": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来たり": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來たり": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "くて": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "て": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "てる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "いて": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "いで": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "して": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "って": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "んで": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じて": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為て": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "きて": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来て": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來て": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "まして": [
+        {
+            "replacement": "ます",
+            "conditions_in": [],
+            "conditions_out": [
+                "-ます"
+            ]
+        }
+    ],
+    "ず": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "かず": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がず": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さず": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たず": [
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なず": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばず": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まず": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らず": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わず": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぜず": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せず": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為ず": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こず": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ず": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ず": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ぬ": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "かぬ": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がぬ": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さぬ": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たぬ": [
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なぬ": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばぬ": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まぬ": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らぬ": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わぬ": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぜぬ": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せぬ": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為ぬ": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こぬ": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ぬ": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ぬ": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ん": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "かん": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がん": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さん": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たん": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なん": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばん": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まん": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らん": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わん": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぜん": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せん": [
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為ん": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こん": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ん": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ん": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "-ん"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "んばかり": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "かんばかり": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がんばかり": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さんばかり": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たんばかり": [
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なんばかり": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばんばかり": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まんばかり": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らんばかり": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わんばかり": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぜんばかり": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せんばかり": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為んばかり": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こんばかり": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来んばかり": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來んばかり": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "んとする": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "かんとする": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がんとする": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さんとする": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たんとする": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なんとする": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばんとする": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まんとする": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らんとする": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わんとする": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぜんとする": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せんとする": [
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為んとする": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こんとする": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来んとする": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來んとする": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "vs"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "む": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "かむ": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がむ": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さむ": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たむ": [
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なむ": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばむ": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まむ": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らむ": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わむ": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぜむ": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せむ": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為む": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こむ": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来む": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來む": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ざる": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "かざる": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がざる": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さざる": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たざる": [
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なざる": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばざる": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まざる": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らざる": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わざる": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぜざる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せざる": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為ざる": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こざる": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ざる": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ざる": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "かねば": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がねば": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さねば": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たねば": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なねば": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばねば": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まねば": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らねば": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わねば": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぜねば": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せねば": [
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為ねば": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こねば": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ねば": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ねば": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "-ば"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "く": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "-く"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "させる": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        },
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "かせる": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がせる": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たせる": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なせる": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばせる": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ませる": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らせる": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わせる": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じさせる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "ぜさせる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為せる": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "せさせる": [
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為させる": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こさせる": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来させる": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來させる": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "さす": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        },
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "かす": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v5sp"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がす": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v5sp"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たす": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v5sp"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なす": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v5sp"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばす": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v5sp"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ます": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v5sp"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "らす": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5sp"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わす": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v5sp"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じさす": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "ぜさす": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為す": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こさす": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来さす": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來さす": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v5ss"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ろ": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "よ": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "え": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "える",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "け": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ける",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "げ": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "げる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "い",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "せ": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "せる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "ね": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ねる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "べ": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "べる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "め": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "める",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "れ": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "れる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "じろ": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "ぜよ": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "しろ": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "せよ": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為ろ": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為よ": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こい": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来い": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來い": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "い": [
+        {
+            "replacement": "いる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "き": [
+        {
+            "replacement": "きる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        },
+        {
+            "replacement": "い",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ぎ": [
+        {
+            "replacement": "ぎる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じ": [
+        {
+            "replacement": "じる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "ぜ": [
+        {
+            "replacement": "ぜる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "ち": [
+        {
+            "replacement": "ちる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "で": [
+        {
+            "replacement": "でる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "に": [
+        {
+            "replacement": "にる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ひ": [
+        {
+            "replacement": "ひる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "び": [
+        {
+            "replacement": "びる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "へ": [
+        {
+            "replacement": "へる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        }
+    ],
+    "み": [
+        {
+            "replacement": "みる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "り": [
+        {
+            "replacement": "りる",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1d"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "し": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "来": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "くない": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ない": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "かない": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がない": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "さない": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "たない": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なない": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばない": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まない": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "らない": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "わない": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じない": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "しない": [
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為ない": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こない": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来ない": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ない": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ません": [
+        {
+            "replacement": "ます",
+            "conditions_in": [
+                "-ません"
+            ],
+            "conditions_out": [
+                "-ます"
+            ]
+        }
+    ],
+    "さ": [
+        {
+            "replacement": "い",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "かれる": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "がれる": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "される": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d",
+                "v5sp"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "たれる": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "なれる": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ばれる": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "まれる": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "われる": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "られる": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "じされる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "ぜされる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為れる": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こられる": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来られる": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來られる": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "かった": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "た": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いた": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "いだ": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "した": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "った": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "んだ": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じた": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為た": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "きた": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来た": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來た": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ました": [
+        {
+            "replacement": "ます",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-ます"
+            ]
+        }
+    ],
+    "います": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "きます": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        },
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ぎます": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "します": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d",
+                "v5s"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ちます": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "にます": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "びます": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "みます": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "ります": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "じます": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為ます": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "来ます": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來ます": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "くあります": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "-ます"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "れる": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v1",
+                "v5d"
+            ]
+        }
+    ],
+    "える": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "ける": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "げる": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "せる": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "てる": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        },
+        {
+            "replacement": "て",
+            "conditions_in": [
+                "v1p"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ねる": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "べる": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "める": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "v5d"
+            ]
+        }
+    ],
+    "できる": [
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "出来る": [
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "これる": [
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来れる": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來れる": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ざれる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "ぜられる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "せられる": [
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為られる": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "よう": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        },
+        {
+            "replacement": "よく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "おう": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "こう": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "かく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "ごう": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "がく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "とう": [
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "たく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "のう": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "なく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "ぼう": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "ばく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "もう": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "まく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "ろう": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "らく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "じよう": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "しよう": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為よう": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こよう": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来よう": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來よう": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ましょう": [
+        {
+            "replacement": "ます",
+            "conditions_in": [],
+            "conditions_out": [
+                "-ます"
+            ]
+        }
+    ],
+    "かろう": [
+        {
+            "replacement": "い",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "よっか": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "おっか": [
+        {
+            "replacement": "う",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "こっか": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ごっか": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "そっか": [
+        {
+            "replacement": "す",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "とっか": [
+        {
+            "replacement": "つ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "のっか": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ぼっか": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "もっか": [
+        {
+            "replacement": "む",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "ろっか": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じよっか": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "しよっか": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為よっか": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こよっか": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来よっか": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來よっか": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ましょっか": [
+        {
+            "replacement": "ます",
+            "conditions_in": [],
+            "conditions_out": [
+                "-ます"
+            ]
+        }
+    ],
+    "まい": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "じまい": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "しまい": [
+        {
+            "replacement": "する",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "為まい": [
+        {
+            "replacement": "為る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "こまい": [
+        {
+            "replacement": "くる",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "来まい": [
+        {
+            "replacement": "来る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來まい": [
+        {
+            "replacement": "來る",
+            "conditions_in": [],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ておく": [
+        {
+            "replacement": "て",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "でおく": [
+        {
+            "replacement": "で",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "とく": [
+        {
+            "replacement": "て",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "どく": [
+        {
+            "replacement": "で",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ないでおく": [
+        {
+            "replacement": "ない",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ないどく": [
+        {
+            "replacement": "ない",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ている": [
+        {
+            "replacement": "て",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ておる": [
+        {
+            "replacement": "て",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "でいる": [
+        {
+            "replacement": "で",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "でおる": [
+        {
+            "replacement": "で",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "でる": [
+        {
+            "replacement": "で",
+            "conditions_in": [
+                "v1p"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "とる": [
+        {
+            "replacement": "て",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ないでいる": [
+        {
+            "replacement": "ない",
+            "conditions_in": [
+                "v1"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "気": [
+        {
+            "replacement": "い",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "がる": [
+        {
+            "replacement": "い",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "やがる": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v1"
+            ]
+        }
+    ],
+    "いやがる": [
+        {
+            "replacement": "う",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "きやがる": [
+        {
+            "replacement": "く",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "くる",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ぎやがる": [
+        {
+            "replacement": "ぐ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "しやがる": [
+        {
+            "replacement": "す",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        },
+        {
+            "replacement": "する",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "ちやがる": [
+        {
+            "replacement": "つ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "にやがる": [
+        {
+            "replacement": "ぬ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "びやがる": [
+        {
+            "replacement": "ぶ",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "みやがる": [
+        {
+            "replacement": "む",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "りやがる": [
+        {
+            "replacement": "る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "v5"
+            ]
+        }
+    ],
+    "じやがる": [
+        {
+            "replacement": "ずる",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vz"
+            ]
+        }
+    ],
+    "為やがる": [
+        {
+            "replacement": "為る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vs"
+            ]
+        }
+    ],
+    "来やがる": [
+        {
+            "replacement": "来る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "來やがる": [
+        {
+            "replacement": "來る",
+            "conditions_in": [
+                "v5"
+            ],
+            "conditions_out": [
+                "vk"
+            ]
+        }
+    ],
+    "ねえ": [
+        {
+            "replacement": "ない",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "めえ": [
+        {
+            "replacement": "むい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "まい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "みい": [
+        {
+            "replacement": "むい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ちぇえ": [
+        {
+            "replacement": "つい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "ちゃい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ちい": [
+        {
+            "replacement": "つい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "せえ": [
+        {
+            "replacement": "すい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "さい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ええ": [
+        {
+            "replacement": "いい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "わい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "よい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "いぇえ": [
+        {
+            "replacement": "よい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "うぇえ": [
+        {
+            "replacement": "わい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "けえ": [
+        {
+            "replacement": "かい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "げえ": [
+        {
+            "replacement": "がい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "ごい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ぜえ": [
+        {
+            "replacement": "ずい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "っぜえ": [
+        {
+            "replacement": "ずい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "れえ": [
+        {
+            "replacement": "らい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "れい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "でえ": [
+        {
+            "replacement": "どい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "べえ": [
+        {
+            "replacement": "ばい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "てえ": [
+        {
+            "replacement": "たい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ねぇ": [
+        {
+            "replacement": "ない",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "めぇ": [
+        {
+            "replacement": "むい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "まい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "みぃ": [
+        {
+            "replacement": "むい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ちぃ": [
+        {
+            "replacement": "つい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "せぇ": [
+        {
+            "replacement": "すい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "さい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "けぇ": [
+        {
+            "replacement": "かい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "げぇ": [
+        {
+            "replacement": "がい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "ごい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ぜぇ": [
+        {
+            "replacement": "ずい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "っぜぇ": [
+        {
+            "replacement": "ずい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "れぇ": [
+        {
+            "replacement": "らい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        },
+        {
+            "replacement": "れい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "でぇ": [
+        {
+            "replacement": "どい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "べぇ": [
+        {
+            "replacement": "ばい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "てぇ": [
+        {
+            "replacement": "たい",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "んなさい": [
+        {
+            "replacement": "りなさい",
+            "conditions_in": [],
+            "conditions_out": [
+                "-なさい"
+            ]
+        }
+    ],
+    "らんない": [
+        {
+            "replacement": "られない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "んない": [
+        {
+            "replacement": "らない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "んなきゃ": [
+        {
+            "replacement": "らなきゃ",
+            "conditions_in": [],
+            "conditions_out": [
+                "-ゃ"
+            ]
+        },
+        {
+            "replacement": "れなきゃ",
+            "conditions_in": [],
+            "conditions_out": [
+                "-ゃ"
+            ]
+        }
+    ],
+    "んな": [
+        {
+            "replacement": "る",
+            "conditions_in": [],
+            "conditions_out": [
+                "v"
+            ]
+        }
+    ],
+    "へん": [
+        {
+            "replacement": "ない",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ひん": [
+        {
+            "replacement": "ない",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "せえへん": [
+        {
+            "replacement": "しない",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "へんかった": [
+        {
+            "replacement": "なかった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "ひんかった": [
+        {
+            "replacement": "なかった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "うてへん": [
+        {
+            "replacement": "ってない",
+            "conditions_in": [],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "うて": [
+        {
+            "replacement": "って",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "くて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "おうて": [
+        {
+            "replacement": "あって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "こうて": [
+        {
+            "replacement": "かって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "かくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ごうて": [
+        {
+            "replacement": "がって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "がくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "そうて": [
+        {
+            "replacement": "さって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "さくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ぞうて": [
+        {
+            "replacement": "ざって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "とうて": [
+        {
+            "replacement": "たって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "たくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "どうて": [
+        {
+            "replacement": "だって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "のうて": [
+        {
+            "replacement": "なって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "なくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ほうて": [
+        {
+            "replacement": "はって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ぼうて": [
+        {
+            "replacement": "ばって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "ばくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "もうて": [
+        {
+            "replacement": "まって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "まくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ろうて": [
+        {
+            "replacement": "らって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "らくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ようて": [
+        {
+            "replacement": "やって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        },
+        {
+            "replacement": "よくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "ゆうて": [
+        {
+            "replacement": "いって",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "うた": [
+        {
+            "replacement": "った",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "おうた": [
+        {
+            "replacement": "あった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "こうた": [
+        {
+            "replacement": "かった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "ごうた": [
+        {
+            "replacement": "がった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "そうた": [
+        {
+            "replacement": "さった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "ぞうた": [
+        {
+            "replacement": "ざった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "とうた": [
+        {
+            "replacement": "たった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "どうた": [
+        {
+            "replacement": "だった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "のうた": [
+        {
+            "replacement": "なった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "ほうた": [
+        {
+            "replacement": "はった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "ぼうた": [
+        {
+            "replacement": "ばった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "もうた": [
+        {
+            "replacement": "まった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "ろうた": [
+        {
+            "replacement": "らった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "ようた": [
+        {
+            "replacement": "やった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "ゆうた": [
+        {
+            "replacement": "いった",
+            "conditions_in": [
+                "-た"
+            ],
+            "conditions_out": [
+                "-た"
+            ]
+        }
+    ],
+    "うたら": [
+        {
+            "replacement": "ったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "おうたら": [
+        {
+            "replacement": "あったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "こうたら": [
+        {
+            "replacement": "かったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ごうたら": [
+        {
+            "replacement": "がったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "そうたら": [
+        {
+            "replacement": "さったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ぞうたら": [
+        {
+            "replacement": "ざったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "とうたら": [
+        {
+            "replacement": "たったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "どうたら": [
+        {
+            "replacement": "だったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "のうたら": [
+        {
+            "replacement": "なったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ほうたら": [
+        {
+            "replacement": "はったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ぼうたら": [
+        {
+            "replacement": "ばったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "もうたら": [
+        {
+            "replacement": "まったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ろうたら": [
+        {
+            "replacement": "らったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ようたら": [
+        {
+            "replacement": "やったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ゆうたら": [
+        {
+            "replacement": "いったら",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "うたり": [
+        {
+            "replacement": "ったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "おうたり": [
+        {
+            "replacement": "あったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "こうたり": [
+        {
+            "replacement": "かったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ごうたり": [
+        {
+            "replacement": "がったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "そうたり": [
+        {
+            "replacement": "さったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ぞうたり": [
+        {
+            "replacement": "ざったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "とうたり": [
+        {
+            "replacement": "たったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "どうたり": [
+        {
+            "replacement": "だったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "のうたり": [
+        {
+            "replacement": "なったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ほうたり": [
+        {
+            "replacement": "はったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ぼうたり": [
+        {
+            "replacement": "ばったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "もうたり": [
+        {
+            "replacement": "まったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ろうたり": [
+        {
+            "replacement": "らったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ようたり": [
+        {
+            "replacement": "やったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "ゆうたり": [
+        {
+            "replacement": "いったり",
+            "conditions_in": [],
+            "conditions_out": []
+        }
+    ],
+    "う": [
+        {
+            "replacement": "く",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "しゅう": [
+        {
+            "replacement": "しく",
+            "conditions_in": [],
+            "conditions_out": [
+                "-く"
+            ]
+        }
+    ],
+    "しゅうて": [
+        {
+            "replacement": "しくて",
+            "conditions_in": [
+                "-て"
+            ],
+            "conditions_out": [
+                "-て"
+            ]
+        }
+    ],
+    "うない": [
+        {
+            "replacement": "くない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "こうない": [
+        {
+            "replacement": "かくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ごうない": [
+        {
+            "replacement": "がくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "そうない": [
+        {
+            "replacement": "さくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "とうない": [
+        {
+            "replacement": "たくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "のうない": [
+        {
+            "replacement": "なくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ぼうない": [
+        {
+            "replacement": "ばくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "もうない": [
+        {
+            "replacement": "まくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ろうない": [
+        {
+            "replacement": "らくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "ようない": [
+        {
+            "replacement": "よくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ],
+    "しゅうない": [
+        {
+            "replacement": "しくない",
+            "conditions_in": [
+                "adj-i"
+            ],
+            "conditions_out": [
+                "adj-i"
+            ]
+        }
+    ]
+}
